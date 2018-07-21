@@ -1,0 +1,1 @@
+//The file containing the logic for the course of the game, which depends on Word.js
